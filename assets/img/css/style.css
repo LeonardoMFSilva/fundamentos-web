@@ -1,0 +1,64 @@
+/* Todo estilo do site deve ficar em uma unica página do css. */
+
+/*
+estilos da página index.html
+*/
+
+.center{
+    text-align: center;
+}
+
+.left{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 20px;
+    
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    color: darkslategrey;
+}
+
+.p-30{
+    padding: 20px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.wh{
+    width: 450px;
+    height: 450px;
+}
+
+.socialsize{
+    padding: 15px;
+}
+/*
+estilos da página contato.html
+*/
+
+.ml-50{
+    margin-left: 50px;
+}
+
+.mb-170{
+    margin-bottom: 170px;
+}
