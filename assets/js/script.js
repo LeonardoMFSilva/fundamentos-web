@@ -1,4 +1,3 @@
-js
 /* Tipos de varriaveis no js:
 var - De escopo global
 let - É boa pratica e quando usado dentro de {} o uso dela é apenas no escopo local, fora das {} é global
